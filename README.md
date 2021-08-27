@@ -1,2 +1,2 @@
-# openHAB
+# OpenHAB
 Userdata and config folders.
